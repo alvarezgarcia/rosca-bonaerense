@@ -1,4 +1,8 @@
-rosca-bonaerense
-================
+#Rosca bonaerense
 
-Status actual de los Intendentes de PBA
+##¿Qué es esto?
+
+##¿Para qué sirve?
+
+##¿Cuál es el futuro?
+
