@@ -1,0 +1,10 @@
+{
+	"name": "rosca-ba-api",
+	"version": "0.0.1",
+	"author": "Raichuk",
+	"description": "API para mantenerse al tanto de los gustos partidarios de los barones del conurbano",
+	"main": "index.js",
+	"dependencies": {
+		"express": "*"
+	}
+}
