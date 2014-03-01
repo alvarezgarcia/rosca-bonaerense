@@ -6,5 +6,9 @@
 	"main": "index.js",
 	"dependencies": {
 		"express": "*"
+	},
+
+	"scripts": {
+		"start": "node index.js"
 	}
 }
