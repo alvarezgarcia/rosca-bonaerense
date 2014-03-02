@@ -12,5 +12,5 @@ app.configure(function() {
 app.get('/rosca/:partido', rosca.partido);
 
 app.listen(port, function() {
-	console.log('Rosca iniciada en '+port);
+	console.log('rosca-bonaerense iniciada en '+port);
 });
