@@ -1,137 +1,1463 @@
 [
-{ "partido": "Adolfo_ Alsina", "nombre": "David Abel Hirtz", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Adolfo_Gonzales Chaves", "nombre": "José Martínez", "agrupacion_actual": "PV", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Alberti", "nombre": "Marta Médici", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Almirante_Brown", "nombre": "Dario Giustozzi (interino: Daniel Bolettieri)", "agrupacion_actual": "FR", "agrupacion_anterior": "FPV", "fecha_pase": "2013-08" },
-{ "partido": "Arrecifes", "nombre": "Daniel Bolinaga", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Avellaneda", "nombre": "Jorge Ferraresi", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Ayacucho", "nombre": "Pablo Antonio Zubiaurre", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Azul", "nombre": "José Manuel Inza", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Bahia_Blanca", "nombre": "Gustavo Bevilacqua", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Balcarce", "nombre": "José Enrique Echeverría", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Baradero", "nombre": "Aldo Carossi", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Benito_Juarez", "nombre": "Julio César Marini", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Berazategui", "nombre": "Juan Patricio Mussi", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Berisso", "nombre": "Enrique Slezack", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Bolivar", "nombre": "Eduardo Luján Bucca", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Bragado", "nombre": "Aldo San Pedro", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Brandsen", "nombre": "Gastón Arnoldo Arias", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Campana", "nombre": "Stella Maris Giroldi de Varela", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Canuelas", "nombre": "Marisa Fassi", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Capitan_Sarmiento", "nombre": "Oscar Ostoich", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Carlos_Casares", "nombre": "Walter Sergio Torchio", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Carlos_Tejedor", "nombre": "María Celia Gianini de Lafleur", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Carmen_de_Areco", "nombre": "Marcelo Skanski", "agrupacion_actual": "PV", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Castelli", "nombre": "Francisco José Echarren", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Chacabuco", "nombre": "Mauricio Gabriel Barrientos", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Chascomus", "nombre": "Juan Alberto Gobbi", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Chivilcoy", "nombre": "Aníban Pitelli", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Colon", "nombre": "Ricardo Cassi", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Coronel_Rosales", "nombre": "Néstor Starc", "agrupacion_actual": "PV", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Coronel_Dorrego", "nombre": "Fabián Andrés Zorzano", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Coronel_Pringles", "nombre": "Carlos Ulises Oreste", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Coronel_Suarez", "nombre": "Osvaldo Luciano Fuentes Lema", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Daireaux", "nombre": "Esteban Jorge Hernando", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Dolores", "nombre": "Luis Maria Camilo Etchevarren", "agrupacion_actual": "CC", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Ensenada", "nombre": "Mario Carlos Secco", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Escobar", "nombre": "Sandro Guzman (interino: Walter Blanco)", "agrupacion_actual": "FR", "agrupacion_anterior": "FPV", "fecha_pase": "2013-08" },
-{ "partido": "Esteban_Echeverria", "nombre": "Fernando Gray", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Exaltacion de la Cruz", "nombre": "Adrián Daniel Sánchez", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Ezeiza", "nombre": "Oscar Cicco", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Florencio_Varela", "nombre": "Julio César Pereyra", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Florentino_Ameghino", "nombre": "Francisco Iribarren", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_Alvarado", "nombre": "Patricio Hogan (interino: German Di Cesare)", "agrupacion_actual": "FR", "agrupacion_anterior": "FPV", "fecha_pase": "2013-08" },
-{ "partido": "General_Alvear", "nombre": "Luis Cellillo", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "General_Arenales", "nombre": "José María Medina", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_Belgrano", "nombre": "Jorge Alejandro Eijo", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_Guido", "nombre": "Jorge Aníbal Loubet", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "General_Madariaga", "nombre": "Cristian Popovich", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_La_Madrid", "nombre": "Juan Carlos Pellitta", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_Las_Heras", "nombre": "Juan Carlos Caló", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_Lavalle", "nombre": "Marcela Fabiana Passo", "agrupacion_actual": "FR", "agrupacion_anterior": "FPV", "fecha_pase": "2013-08" },
-{ "partido": "General_Paz", "nombre": "Juan Carlos Veramendi", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_Pinto", "nombre": "Alexis Raúl Guerrera", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_Pueyrredon", "nombre": "Gustavo Arnaldo Pulti", "agrupacion_actual": "AM", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_Rodriguez", "nombre": "Juan Pablo Anghileri", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_San_Martin", "nombre": "Gabriel Katopodis", "agrupacion_actual": "FR", "agrupacion_anterior": "FPV", "fecha_pase": "2013-08" },
-{ "partido": "General_Viamonte", "nombre": "Juan Carlos Bartoletti", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "General_illegas", "nombre": "Horacio Daniel Pascual", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Guamini", "nombre": "Néstor Fabián Álvarez", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Hipolito_Yrigoyen", "nombre": "Enrique Tkacik", "agrupacion_actual": "FAP", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Hurlingham", "nombre": "Luís Emilio Acuña", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Ituzaingo", "nombre": "Alberto Descalzo", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Jose_C_Paz", "nombre": "Carlos Norberto Urquiaga", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Junin", "nombre": "Mario Andrés Meoni", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "La_Costa", "nombre": "Juan Pablo de Jesús", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "La_Matanza", "nombre": "Fernando Espinoza", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "La_Plata", "nombre": "Pablo Bruera", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Lanus", "nombre": "Darío Rubén Díaz Pérez", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Laprida", "nombre": "Alfredo Rubén Fisher", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Las_Flores", "nombre": "Alberto Cesar Gelené", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Leandro_N_Alem", "nombre": "Albeto Rubén Conocchiari", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Lezama", "nombre": "Carlos Marcelo Racciatti", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Lincoln", "nombre": "Jorge Abel Fernández", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Loberia", "nombre": "Diana Edith Argüello", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Lobos", "nombre": "Gustavo Rubén Sobrero", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Lomas de Zamora", "nombre": "Santiago Alberto Carasatorre", "agrupacion_actual": "FPV", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Lujan", "nombre": "Oscar Ernesto Luciani", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Magdalena", "nombre": "Fernando Carballo", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Maipu", "nombre": "Aníbal Rapallini", "agrupacion_actual": "UCR", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Malvinas_Argentinas", "nombre": "Jesús Cataldo Cariglino", "agrupacion_actual": "UP", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Mar_Chiquita", "nombre": "Jorge Alberto Paredi", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Marcos_Paz", "nombre": "Ricardo Pedro Curutchet", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Mercedes", "nombre": "Carlos Américo Selva", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Merlo", "nombre": "Raúl Alfredo Othacehe", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Monte", "nombre": "Raúl Alberto Basualdo", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Monte_Hermoso", "nombre": "Marcos Luis Fernández", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Moreno", "nombre": "Mariano Federico West", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Moron", "nombre": "Lucas Hernán Ghi", "agrupacion_actual": "Nuevo Morón", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Navarro", "nombre": "Santiago Alejandro Maggiotti", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Necochea", "nombre": "José Luis Vidal", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Nueve_de_Julio", "nombre": "Wálter Roberto Batistella", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Olavarria", "nombre": "José Eseverri", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Patagones", "nombre": "Ricardo Curreti", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Pehuajo", "nombre": "Pablo Javier Zurro", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Pellegrini", "nombre": "Miguel Ángel Pacheco", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Pergamino", "nombre": "Héctor María Gutiérrez", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Pila", "nombre": "Gustavo Alfredo Walker", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Pilar", "nombre": "Humberto Edgardo Zúccaro", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Pinamar", "nombre": "Hernán Muriale", "agrupacion_actual": "MUPP", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Presidente_Peron", "nombre": "Alfonso Aníbal Regueiro", "agrupacion_actual": "FPV", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Puan", "nombre": "Facundo David Castelli", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Punta_Indio", "nombre": "Hernán César Y Zurieta", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Quilmes", "nombre": "Francisco Virgilio Gutiérrez", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Ramallo", "nombre": "Walter Ariel Santalla", "agrupacion_actual": "UCR", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Rauch", "nombre": "Jorge Mario Ramón Ugarte", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Rivadavia", "nombre": "Sergio Omar Buil", "agrupacion_actual": "GEN-FAP", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Rojas", "nombre": "Martín Ángel Caso", "agrupacion_actual": "EPR", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Roque_Perez", "nombre": "Juan Carlos Gasparini", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Saavedra", "nombre": "Alejandro Hugo Corvatta", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Saladillo", "nombre": "Carlos Antonio Gorosito", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Salliquelo", "nombre": "Osvaldo Cattaneo", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Salto", "nombre": "Oscar René Brasca", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "San_Andres_de_Giles", "nombre": "Luis Alberto Ghione", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "San_Antonio_de_ Areco", "nombre": "Francisco de Durañona y Vedia", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "San_Cayetano", "nombre": "Miguel Gargaglione", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "San_Fernando", "nombre": "Luis Andreotti", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "San_Isidro", "nombre": "Gustavo Posse", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "San_Miguel", "nombre": "Joaquín de la Torre", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "San_Nicolas", "nombre": "Ismael Passaglia", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "San_Pedro", "nombre": "Pablo Guillermo Guacone", "agrupacion_actual": "FS", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "San_Vicente", "nombre": "Daniel Di Sabatino", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Suipacha", "nombre": "Juan Antonio Delfino", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Tandil", "nombre": "Miguel Ángel Lunghi", "agrupacion_actual": "Udeso", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Tapalque", "nombre": "Gustavo Cocconi", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Tigre", "nombre": "Julio César Zamora", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Tordillo", "nombre": "Héctor Aníbal Olivera", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Tornquist", "nombre": "Gustavo Trankels", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Trenque_Lauquen", "nombre": "Raúl Feito", "agrupacion_actual": "FPV", "agrupacion_anterior": "---", "fecha_pase": " " },
-{ "partido": "Tres_Arroyos", "nombre": "Carlos Alberto Sánchez", "agrupacion_actual": "PV", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Tres_de_Febrero", "nombre": "Hugo Omar Curto", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Tres_Lomas", "nombre": "Roberto Oscar Álvarez", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Veinticinco_de_Mayo", "nombre": "María Victoria Borrego", "agrupacion_actual": "CC", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Vicente_Lopez", "nombre": "Jorge Macri", "agrupacion_actual": "FP", "agrupacion_anterior": " ", "fecha_pase": " " },
-{ "partido": "Villa_Gesell", "nombre": "Jorge Rodríguez Ernetta", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Villarino", "nombre": "Patricia Anabela Cobello", "agrupacion_actual": "FPV", "agrupacion_anterior": "FPV", "fecha_pase": " " },
-{ "partido": "Zarate", "nombre": "Osvaldo Raúl Cáffaro", "agrupacion_actual": "NZ", "agrupacion_anterior": " ", "fecha_pase": " " }
+ {
+  "partido": "ADOLFO_ ALSINA",
+  "nombre": "David Abel Hirtz",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ADOLFO_GONZALES CHAVES",
+  "nombre": "José Martínez",
+  "agrupacion_actual": "PV",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ALBERTI",
+  "nombre": "Marta Médici",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ALMIRANTE_BROWN",
+  "nombre": "Dario Giustozzi (interino: Daniel Bolettieri)",
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   "2013-08"
+  ]
+ },
+ {
+  "partido": "ARRECIFES",
+  "nombre": "Daniel Bolinaga",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "AVELLANEDA",
+  "nombre": "Jorge Ferraresi",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "AYACUCHO",
+  "nombre": "Pablo Antonio Zubiaurre",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "AZUL",
+  "nombre": "José Manuel Inza",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BAHIA_BLANCA",
+  "nombre": "Gustavo Bevilacqua",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BALCARCE",
+  "nombre": "José Enrique Echeverría",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BARADERO",
+  "nombre": "Aldo Carossi",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BENITO_JUAREZ",
+  "nombre": "Julio César Marini",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BERAZATEGUI",
+  "nombre": "Juan Patricio Mussi",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BERISSO",
+  "nombre": "Enrique Slezack",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BOLIVAR",
+  "nombre": "Eduardo Luján Bucca",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BRAGADO",
+  "nombre": "Aldo San Pedro",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "BRANDSEN",
+  "nombre": "Gastón Arnoldo Arias",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CAMPANA",
+  "nombre": "Stella Maris Giroldi de Varela",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CANUELAS",
+  "nombre": "Marisa Fassi",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CAPITAN_SARMIENTO",
+  "nombre": "Oscar Ostoich",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CARLOS_CASARES",
+  "nombre": "Walter Sergio Torchio",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CARLOS_TEJEDOR",
+  "nombre": "María Celia Gianini de Lafleur",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CARMEN_DE_ARECO",
+  "nombre": "Marcelo Skanski",
+  "agrupacion_actual": "PV",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CASTELLI",
+  "nombre": "Francisco José Echarren",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CHACABUCO",
+  "nombre": "Mauricio Gabriel Barrientos",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CHASCOMUS",
+  "nombre": "Juan Alberto Gobbi",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CHIVILCOY",
+  "nombre": "Aníban Pitelli",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "COLON",
+  "nombre": "Ricardo Cassi",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CORONEL_ROSALES",
+  "nombre": "Néstor Starc",
+  "agrupacion_actual": "PV",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CORONEL_DORREGO",
+  "nombre": "Fabián Andrés Zorzano",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CORONEL_PRINGLES",
+  "nombre": "Carlos Ulises Oreste",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "CORONEL_SUAREZ",
+  "nombre": "Osvaldo Luciano Fuentes Lema",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "DAIREAUX",
+  "nombre": "Esteban Jorge Hernando",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "DOLORES",
+  "nombre": "Luis Maria Camilo Etchevarren",
+  "agrupacion_actual": "CC",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ENSENADA",
+  "nombre": "Mario Carlos Secco",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ESCOBAR",
+  "nombre": "Sandro Guzman (interino: Walter Blanco)",
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   "2013-08"
+  ]
+ },
+ {
+  "partido": "ESTEBAN_ECHEVERRIA",
+  "nombre": "Fernando Gray",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "EXALTACION DE LA CRUZ",
+  "nombre": "Adrián Daniel Sánchez",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "EZEIZA",
+  "nombre": "Oscar Cicco",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "FLORENCIO_VARELA",
+  "nombre": "Julio César Pereyra",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "FLORENTINO_AMEGHINO",
+  "nombre": "Francisco Iribarren",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_ALVARADO",
+  "nombre": "Patricio Hogan (interino: German Di Cesare)",
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   "2013-08"
+  ]
+ },
+ {
+  "partido": "GENERAL_ALVEAR",
+  "nombre": "Luis Cellillo",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_ARENALES",
+  "nombre": "José María Medina",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_BELGRANO",
+  "nombre": "Jorge Alejandro Eijo",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_GUIDO",
+  "nombre": "Jorge Aníbal Loubet",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_MADARIAGA",
+  "nombre": "Cristian Popovich",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_LA_MADRID",
+  "nombre": "Juan Carlos Pellitta",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_LAS_HERAS",
+  "nombre": "Juan Carlos Caló",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_LAVALLE",
+  "nombre": "Marcela Fabiana Passo",
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   "2013-08"
+  ]
+ },
+ {
+  "partido": "GENERAL_PAZ",
+  "nombre": "Juan Carlos Veramendi",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_PINTO",
+  "nombre": "Alexis Raúl Guerrera",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_PUEYRREDON",
+  "nombre": "Gustavo Arnaldo Pulti",
+  "agrupacion_actual": "AM",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_RODRIGUEZ",
+  "nombre": "Juan Pablo Anghileri",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_SAN_MARTIN",
+  "nombre": "Gabriel Katopodis",
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   "2013-08"
+  ]
+ },
+ {
+  "partido": "GENERAL_VIAMONTE",
+  "nombre": "Juan Carlos Bartoletti",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GENERAL_ILLEGAS",
+  "nombre": "Horacio Daniel Pascual",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "GUAMINI",
+  "nombre": "Néstor Fabián Álvarez",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "HIPOLITO_YRIGOYEN",
+  "nombre": "Enrique Tkacik",
+  "agrupacion_actual": "FAP",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "HURLINGHAM",
+  "nombre": "Luís Emilio Acuña",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ITUZAINGO",
+  "nombre": "Alberto Descalzo",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "JOSE_C_PAZ",
+  "nombre": "Carlos Norberto Urquiaga",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "JUNIN",
+  "nombre": "Mario Andrés Meoni",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LA_COSTA",
+  "nombre": "Juan Pablo de Jesús",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LA_MATANZA",
+  "nombre": "Fernando Espinoza",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LA_PLATA",
+  "nombre": "Pablo Bruera",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LANUS",
+  "nombre": "Darío Rubén Díaz Pérez",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LAPRIDA",
+  "nombre": "Alfredo Rubén Fisher",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LAS_FLORES",
+  "nombre": "Alberto Cesar Gelené",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LEANDRO_N_ALEM",
+  "nombre": "Albeto Rubén Conocchiari",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LEZAMA",
+  "nombre": "Carlos Marcelo Racciatti",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LINCOLN",
+  "nombre": "Jorge Abel Fernández",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LOBERIA",
+  "nombre": "Diana Edith Argüello",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LOBOS",
+  "nombre": "Gustavo Rubén Sobrero",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LOMAS DE ZAMORA",
+  "nombre": "Santiago Alberto Carasatorre",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "LUJAN",
+  "nombre": "Oscar Ernesto Luciani",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MAGDALENA",
+  "nombre": "Fernando Carballo",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MAIPU",
+  "nombre": "Aníbal Rapallini",
+  "agrupacion_actual": "UCR",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MALVINAS_ARGENTINAS",
+  "nombre": "Jesús Cataldo Cariglino",
+  "agrupacion_actual": "UP",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MAR_CHIQUITA",
+  "nombre": "Jorge Alberto Paredi",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MARCOS_PAZ",
+  "nombre": "Ricardo Pedro Curutchet",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MERCEDES",
+  "nombre": "Carlos Américo Selva",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MERLO",
+  "nombre": "Raúl Alfredo Othacehe",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MONTE",
+  "nombre": "Raúl Alberto Basualdo",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MONTE_HERMOSO",
+  "nombre": "Marcos Luis Fernández",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MORENO",
+  "nombre": "Mariano Federico West",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "MORON",
+  "nombre": "Lucas Hernán Ghi",
+  "agrupacion_actual": "Nuevo Morón",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "NAVARRO",
+  "nombre": "Santiago Alejandro Maggiotti",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "NECOCHEA",
+  "nombre": "José Luis Vidal",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "NUEVE_DE_JULIO",
+  "nombre": "Wálter Roberto Batistella",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "OLAVARRIA",
+  "nombre": "José Eseverri",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PATAGONES",
+  "nombre": "Ricardo Curreti",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PEHUAJO",
+  "nombre": "Pablo Javier Zurro",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PELLEGRINI",
+  "nombre": "Miguel Ángel Pacheco",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PERGAMINO",
+  "nombre": "Héctor María Gutiérrez",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PILA",
+  "nombre": "Gustavo Alfredo Walker",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PILAR",
+  "nombre": "Humberto Edgardo Zúccaro",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PINAMAR",
+  "nombre": "Hernán Muriale",
+  "agrupacion_actual": "MUPP",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PRESIDENTE_PERON",
+  "nombre": "Alfonso Aníbal Regueiro",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PUAN",
+  "nombre": "Facundo David Castelli",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "PUNTA_INDIO",
+  "nombre": "Hernán César Y Zurieta",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "QUILMES",
+  "nombre": "Francisco Virgilio Gutiérrez",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "RAMALLO",
+  "nombre": "Walter Ariel Santalla",
+  "agrupacion_actual": "UCR",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "RAUCH",
+  "nombre": "Jorge Mario Ramón Ugarte",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "RIVADAVIA",
+  "nombre": "Sergio Omar Buil",
+  "agrupacion_actual": "GEN-FAP",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ROJAS",
+  "nombre": "Martín Ángel Caso",
+  "agrupacion_actual": "EPR",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ROQUE_PEREZ",
+  "nombre": "Juan Carlos Gasparini",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAAVEDRA",
+  "nombre": "Alejandro Hugo Corvatta",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SALADILLO",
+  "nombre": "Carlos Antonio Gorosito",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SALLIQUELO",
+  "nombre": "Osvaldo Cattaneo",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SALTO",
+  "nombre": "Oscar René Brasca",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_ANDRES_DE_GILES",
+  "nombre": "Luis Alberto Ghione",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_ANTONIO_DE_ ARECO",
+  "nombre": "Francisco de Durañona y Vedia",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_CAYETANO",
+  "nombre": "Miguel Gargaglione",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_FERNANDO",
+  "nombre": "Luis Andreotti",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_ISIDRO",
+  "nombre": "Gustavo Posse",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_MIGUEL",
+  "nombre": "Joaquín de la Torre",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_NICOLAS",
+  "nombre": "Ismael Passaglia",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_PEDRO",
+  "nombre": "Pablo Guillermo Guacone",
+  "agrupacion_actual": "FS",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SAN_VICENTE",
+  "nombre": "Daniel Di Sabatino",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "SUIPACHA",
+  "nombre": "Juan Antonio Delfino",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TANDIL",
+  "nombre": "Miguel Ángel Lunghi",
+  "agrupacion_actual": "Udeso",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TAPALQUE",
+  "nombre": "Gustavo Cocconi",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TIGRE",
+  "nombre": "Julio César Zamora",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TORDILLO",
+  "nombre": "Héctor Aníbal Olivera",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TORNQUIST",
+  "nombre": "Gustavo Trankels",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TRENQUE_LAUQUEN",
+  "nombre": "Raúl Feito",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TRES_ARROYOS",
+  "nombre": "Carlos Alberto Sánchez",
+  "agrupacion_actual": "PV",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TRES_DE_FEBRERO",
+  "nombre": "Hugo Omar Curto",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "TRES_LOMAS",
+  "nombre": "Roberto Oscar Álvarez",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "VEINTICINCO_DE_MAYO",
+  "nombre": "María Victoria Borrego",
+  "agrupacion_actual": "CC",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "VICENTE_LOPEZ",
+  "nombre": "Jorge Macri",
+  "agrupacion_actual": "FP",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "VILLA_GESELL",
+  "nombre": "Jorge Rodríguez Ernetta",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "VILLARINO",
+  "nombre": "Patricia Anabela Cobello",
+  "agrupacion_actual": "FPV",
+  "agrupacion_anterior": [
+   "FPV"
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ },
+ {
+  "partido": "ZARATE",
+  "nombre": "Osvaldo Raúl Cáffaro",
+  "agrupacion_actual": "NZ",
+  "agrupacion_anterior": [
+   " "
+  ],
+  "fecha_pase": [
+   " "
+  ]
+ }
 ]
