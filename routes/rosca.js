@@ -5,7 +5,7 @@ var intendentes_json = require(__dirname+'/intendentes.json');
 exports.partido = function(req, res) {
 	var partido = req.params.partido;
 
-	var val = s(intendentes_json, 'partido', partido) || 'Municipio no encontrado';
+	var val = s(intendentes_json, 'partido', partido.toUpperCase()) || 'Municipio no encontrado';
 	res.send(val);
 };
 
