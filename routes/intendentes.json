@@ -706,10 +706,10 @@
  {
   "partido": "HURLINGHAM",
   "nombre": "Luís Emilio Acuña",
-  "agrupacion_actual": "FPV",
-  "agrupacion_anterior": [],
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": ["FPV"],
   "fecha_pase": [
-   " "
+   "2013-08"
   ],
   "firmo": "no"
  },
@@ -966,10 +966,10 @@
  {
   "partido": "MERCEDES",
   "nombre": "Carlos Américo Selva",
-  "agrupacion_actual": "FPV",
-  "agrupacion_anterior": [],
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": ["FPV"],
   "fecha_pase": [
-   " "
+   "2013-08"
   ],
   "firmo": "no"
  },
@@ -1070,10 +1070,10 @@
  {
   "partido": "OLAVARRIA",
   "nombre": "José Eseverri",
-  "agrupacion_actual": "FPV",
-  "agrupacion_anterior": [],
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": ["FPV"],
   "fecha_pase": [
-   " "
+   "2013-08"
   ],
   "firmo": "no"
  },
@@ -1140,10 +1140,10 @@
  {
   "partido": "PILAR",
   "nombre": "Humberto Edgardo Zúccaro",
-  "agrupacion_actual": "FPV",
-  "agrupacion_anterior": [],
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": ["FPV"],
   "fecha_pase": [
-   " "
+   "2013-08"
   ],
   "firmo": "no"
  },
@@ -1318,12 +1318,12 @@
  {
   "partido": "SAN_ANDRES_DE_GILES",
   "nombre": "Luis Alberto Ghione",
-  "agrupacion_actual": "FPV",
+  "agrupacion_actual": "FR",
   "agrupacion_anterior": [
    "FPV"
   ],
   "fecha_pase": [
-   " "
+   "2013-08"
   ],
   "firmo": "no"
  },
@@ -1354,10 +1354,10 @@
  {
   "partido": "SAN_FERNANDO",
   "nombre": "Luis Andreotti",
-  "agrupacion_actual": "FPV",
-  "agrupacion_anterior": [],
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": ["FPV"],
   "fecha_pase": [
-   " "
+   "2013-08"
   ],
   "firmo": "no"
  },
@@ -1376,10 +1376,10 @@
  {
   "partido": "SAN_MIGUEL",
   "nombre": "Joaquín de la Torre",
-  "agrupacion_actual": "FPV",
-  "agrupacion_anterior": [],
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": ["FPV"],
   "fecha_pase": [
-   " "
+   "2013-08"
   ],
   "firmo": "no"
  },
