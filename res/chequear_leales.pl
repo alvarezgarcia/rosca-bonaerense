@@ -29,7 +29,7 @@ while(<JSON_FILE>) {
 	print "\n---RESPUESTA---\n";
 	foreach(@arr_response) {
 		my $part = $_;
-		if(index($part, "partido") != -1 || index($part, "nombre") != -1) {
+		if(index($part, "partido") != -1 || index($part, "nombre") != -1 || index($part, "agrupacion_actual") != -1) {
 			$part =~ s/"(.*?)"/$1/g;
 			$part =~ s/^\s+|\s+$//g;
 			print ucfirst($part)."\n";
