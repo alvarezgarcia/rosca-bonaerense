@@ -1,0 +1,42 @@
+<!doctype html>
+<html ng-app="roscaApp">
+<head>
+	<meta charset="utf-8">
+
+	<script src="lib/angular/angular.min.js"></script>
+	<script src="js/controllers.js"></script>
+
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+</head>
+<body ng-controller="PartidosListaController">
+
+	<div class="panel panel-default">
+	    <div class="panel-heading">Panel heading</div>
+			<table class="table">
+				<thead>
+					<tr>
+						<th>Partido</th>
+						<th>Intendente</th>
+						<th>Agrupacion actual</th>
+						<th>Agrupacion anterior</th>
+						<th>Fecha de traspaso</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="partido in partidos | orderBy: 'agrupacion_actual'">
+						<td>{{partido.partido}}</td>
+						<td>{{partido.nombre}}</td>
+						<td>{{partido.agrupacion_actual}}</td>
+						<td>{{partido.agrupacion_anterior}}</td>
+						<td>{{partido.fecha_pase}}</td>
+					</tr>
+				</tbody>
+			</table>
+	 </div>
+
+
+</body>
+</html>

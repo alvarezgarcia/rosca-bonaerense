@@ -9,6 +9,11 @@ exports.partido = function(req, res) {
 	res.send(val);
 };
 
+exports.partidos = function(req, res) {
+
+	res.send(intendentes_json);
+}
+
 
 function s(arr, k, v) {
 
