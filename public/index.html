@@ -14,6 +14,11 @@
 
 	<input ng-model="query">
 
+	<select ng-model="sortorder">
+		<option value="partido">Municipio</option>
+		<option value="agrupacion_actual">Agrupacion actual</option>
+	</select>
+
 	<a href='' ng-click="filtrar('fpv')">FPV</a>
 	<a href='' ng-click="filtrar('fr')">FR</a>
 
@@ -22,7 +27,7 @@
 			<table class="table">
 				<thead>
 					<tr>
-						<th>Partido</th>
+						<th>Municipio</th>
 						<th>Intendente</th>
 						<th>Agrupacion actual</th>
 						<th>Agrupacion anterior</th>
@@ -30,7 +35,7 @@
 					</tr>
 				</thead>
 				<tbody>
-					<tr ng-repeat="partido in partidos | orderBy: 'agrupacion_actual' | filter: query">
+					<tr ng-repeat="partido in partidos | orderBy: sortorder | filter: query">
 						<td>{{partido.partido}}</td>
 						<td>{{partido.nombre}}</td>
 						<td>{{partido.agrupacion_actual}}</td>
