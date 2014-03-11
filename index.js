@@ -16,6 +16,7 @@ app.configure(function() {
 
 app.get('/partidos', rosca.partidos);
 app.get('/partidos/:partido', rosca.partido);
+app.get('/agrupaciones/:agrupacion_actual', rosca.agrupaciones);
 app.get('*', function(req, res) {
 	res.sendfile('./public/index.html');
 });

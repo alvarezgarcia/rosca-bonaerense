@@ -7,11 +7,15 @@
 	<script src="js/controllers.js"></script>
 
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
 
 </head>
 <body ng-controller="PartidosListaController">
+
+	<input ng-model="query">
+
+	<a href='' ng-click="filtrar('fpv')">FPV</a>
+	<a href='' ng-click="filtrar('fr')">FR</a>
 
 	<div class="panel panel-default">
 	    <div class="panel-heading">Panel heading</div>
@@ -26,7 +30,7 @@
 					</tr>
 				</thead>
 				<tbody>
-					<tr ng-repeat="partido in partidos | orderBy: 'agrupacion_actual'">
+					<tr ng-repeat="partido in partidos | orderBy: 'agrupacion_actual' | filter: query">
 						<td>{{partido.partido}}</td>
 						<td>{{partido.nombre}}</td>
 						<td>{{partido.agrupacion_actual}}</td>
@@ -36,7 +40,5 @@
 				</tbody>
 			</table>
 	 </div>
-
-
 </body>
 </html>

@@ -10,10 +10,28 @@ exports.partido = function(req, res) {
 };
 
 exports.partidos = function(req, res) {
-
 	res.send(intendentes_json);
 }
 
+exports.agrupaciones = function(req, res) {
+	var agrupacion_actual = req.params.agrupacion_actual.toUpperCase();
+	res.send(get_municipio_by(intendentes_json, 'agrupacion_actual', agrupacion_actual));
+};
+
+
+function get_municipio_by(intendentes_json, key, value) {
+
+	var ret = [];
+
+	for(var k = 0; k < intendentes_json.length; k++) {
+		var obj = intendentes_json[k];
+		if(obj[key] == value) {
+			ret.push(obj);
+		}
+	}
+
+	return ret;
+}
 
 function s(arr, k, v) {
 
