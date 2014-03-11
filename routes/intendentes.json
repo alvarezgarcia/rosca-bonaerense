@@ -304,8 +304,9 @@
  {
   "partido": "CORONEL_PRINGLES",
   "nombre": "Carlos Ulises Oreste",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "FR",
   "agrupacion_anterior": [
+  	"UCR"
   ],
   "fecha_pase": [
   ],
@@ -630,8 +631,9 @@
  {
   "partido": "JUNIN",
   "nombre": "Mario Andrés Meoni",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "FR",
   "agrupacion_anterior": [
+  	"UCR"
   ],
   "fecha_pase": [
   ],
@@ -1162,8 +1164,9 @@
  {
   "partido": "SAN_ISIDRO",
   "nombre": "Gustavo Posse",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "FR",
   "agrupacion_anterior": [
+  	"UCR"
   ],
   "fecha_pase": [
   ],
