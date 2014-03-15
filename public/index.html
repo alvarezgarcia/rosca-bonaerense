@@ -2,6 +2,7 @@
 <html ng-app="roscaApp">
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<script src="lib/angular/angular.min.js"></script>
 	<script src="js/controllers.js"></script>
@@ -12,19 +13,38 @@
 </head>
 <body ng-controller="PartidosListaController">
 
+
 	<input ng-model="query">
+	<div class="row">
+	<div class="col-md-2">
 
-	<select ng-model="sortorder">
-		<option value="partido">Municipio</option>
-		<option value="agrupacion_actual">Agrupacion actual</option>
-	</select>
-
-	<a href='' ng-click="filtrar('fpv')">FPV</a>
-	<a href='' ng-click="filtrar('fr')">FR</a>
 
 	<div class="panel panel-default">
-	    <div class="panel-heading">Panel heading</div>
-			<table class="table">
+	    <div class="panel-heading">Por Agrupacion</div>
+
+	<table class="table table-hover table-bordered">
+		<thead>
+			<tr>
+				<th>Agrupacion</th>
+				<th>Municipios</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="agrupacion in agrupaciones">
+				<td><a href=# ng-click="filtrar(agrupacion[0])">{{agrupacion[0]}}</a></td>
+				<td>{{agrupacion[1]}}</td>
+			</tr>
+		</tbody>
+	</table>
+
+	</div>
+	</div>
+	
+
+	<div class="col-md-10">
+	<div class="panel panel-default">
+	    <div class="panel-heading">Totales</div>
+			<table class="table table-hover table-bordered">
 				<thead>
 					<tr>
 						<th>Municipio</th>
@@ -44,6 +64,10 @@
 					</tr>
 				</tbody>
 			</table>
+	 </div>
+	 </div>
+	 </div>
+
 	 </div>
 </body>
 </html>
