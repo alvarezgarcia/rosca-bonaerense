@@ -2,7 +2,6 @@
 <html ng-app="roscaApp">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<script src="lib/angular/angular.min.js"></script>
 	<script src="js/controllers.js"></script>
@@ -13,61 +12,68 @@
 </head>
 <body ng-controller="PartidosListaController">
 
+	<h1>Rosca Bonaerense</h1>
+	<br>
 
-	<input ng-model="query">
 	<div class="row">
-	<div class="col-md-2">
-
-
-	<div class="panel panel-default">
-	    <div class="panel-heading">Por Agrupacion</div>
-
-	<table class="table table-hover table-bordered">
-		<thead>
-			<tr>
-				<th>Agrupacion</th>
-				<th>Municipios</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr ng-repeat="agrupacion in agrupaciones">
-				<td><a href=# ng-click="filtrar(agrupacion[0])">{{agrupacion[0]}}</a></td>
-				<td>{{agrupacion[1]}}</td>
-			</tr>
-		</tbody>
-	</table>
-
+		<div class="col-md-2">
+			<p><b>Partido o Intendente o algo:</b></p>
+			<input ng-model="query" class="form-control">
+		</div>
 	</div>
+	<br>
+	<br>
+
+
+	<div class="row">
+		<div class="col-md-2">
+			<div class="panel panel-default">
+	    		<div class="panel-heading">Por Agrupacion</div>
+					<table class="table table-hover table-bordered">
+						<thead>
+						<tr>
+							<th>Agrupacion</th>
+							<th>Municipios</th>
+						</tr>
+						</thead>
+
+						<tbody>
+						<tr ng-repeat="agrupacion in agrupaciones">
+							<td><a href=# ng-click="filtrar(agrupacion[0])">{{agrupacion[0]}}</a></td>
+							<td>{{agrupacion[1]}}</td>
+						</tr>
+						</tbody>
+					</table>
+			</div>
+		</div>
+
+		<div class="col-md-10">
+			<div class="panel panel-default">
+				<div class="panel-heading">Totales</div>
+					<table class="table table-hover table-bordered">
+						<thead>
+						<tr>
+							<th>Municipio</th>
+							<th>Intendente</th>
+							<th>Agrupacion actual</th>
+							<th>Agrupacion anterior</th>
+							<th>Fecha de traspaso</th>
+						</tr>
+						</thead>
+						<tbody>
+						<tr ng-repeat="partido in partidos | orderBy: sortorder | filter: query">
+							<td>{{partido.partido}}</td>
+							<td>{{partido.nombre}}</td>
+							<td>{{partido.agrupacion_actual}}</td>
+							<td>{{partido.agrupacion_anterior}}</td>
+							<td>{{partido.fecha_pase}}</td>
+						</tr>
+						</tbody>
+					</table>
+	 		</div>
+		</div>
 	</div>
-	
 
-	<div class="col-md-10">
-	<div class="panel panel-default">
-	    <div class="panel-heading">Totales</div>
-			<table class="table table-hover table-bordered">
-				<thead>
-					<tr>
-						<th>Municipio</th>
-						<th>Intendente</th>
-						<th>Agrupacion actual</th>
-						<th>Agrupacion anterior</th>
-						<th>Fecha de traspaso</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr ng-repeat="partido in partidos | orderBy: sortorder | filter: query">
-						<td>{{partido.partido}}</td>
-						<td>{{partido.nombre}}</td>
-						<td>{{partido.agrupacion_actual}}</td>
-						<td>{{partido.agrupacion_anterior}}</td>
-						<td>{{partido.fecha_pase}}</td>
-					</tr>
-				</tbody>
-			</table>
-	 </div>
-	 </div>
-	 </div>
 
-	 </div>
 </body>
 </html>
