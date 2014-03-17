@@ -2,11 +2,12 @@ var roscaApp = angular.module('roscaApp', []);
 
 roscaApp.controller('PartidosListaController', function($scope, $http) {
 
+	var partidos_todos;
+
 	$http.get('partidos/').success(function(data) {
 
 		var agrupaciones = {};
 		var agrupaciones_ordenadas = [];
-		var agrupaciones_final = {};
 
 		for(var k = 0; obj = data[k], k < data.length; k++) {
 
@@ -25,6 +26,12 @@ roscaApp.controller('PartidosListaController', function($scope, $http) {
 
 		$scope.agrupaciones = agrupaciones_ordenadas;
 		$scope.partidos = data;
+
+		partidos_todos = data;
+	});
+
+	$http.get('ultima_actualizacion/').success(function(data) {
+		$scope.ultima_actualizacion = data;
 	});
 
 	$scope.filtrar = function(agrupacion_actual) {
@@ -33,7 +40,18 @@ roscaApp.controller('PartidosListaController', function($scope, $http) {
 			$scope.partidos = data;
 		});
 
-	}
+		$scope.agrupacion_mostrada = agrupacion_actual;
+		$scope.agrupaciones_todas = " - (Ver todas)";
+
+	};
+
+	$scope.mostrar_todos = function() {
+		$scope.partidos = partidos_todos;
+		$scope.agrupacion_mostrada = "todas las agrupaciones";
+		$scope.agrupaciones_todas = null;
+	};
 
 
+	$scope.agrupacion_mostrada = "todas las agrupaciones";
+	$scope.agrupaciones_todas = null;
 });

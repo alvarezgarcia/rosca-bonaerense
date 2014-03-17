@@ -9,16 +9,19 @@
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
 
+	<title>Rosca bonaerense</title>
+
 </head>
 <body ng-controller="PartidosListaController">
 
 	<h1>Rosca Bonaerense</h1>
+	<h5>&uacute;ltima actualizaci&oacute;n: {{ultima_actualizacion}}</h5>
 	<br>
 
 	<div class="row">
 		<div class="col-md-2">
 			<p><b>Partido o Intendente o algo:</b></p>
-			<input ng-model="query" class="form-control">
+			<input ng-model="query" class="form-control" autofocus="autofocus">
 		</div>
 	</div>
 	<br>
@@ -49,7 +52,7 @@
 
 		<div class="col-md-10">
 			<div class="panel panel-default">
-				<div class="panel-heading">Totales</div>
+				<div class="panel-heading">Totales para <b>{{agrupacion_mostrada}}</b><a href=# ng-click="mostrar_todos()">{{agrupaciones_todas}}</a></div>
 					<table class="table table-hover table-bordered">
 						<thead>
 						<tr>

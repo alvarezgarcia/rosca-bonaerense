@@ -2,7 +2,7 @@
  {
   "partido": "ADOLFO_ALSINA",
   "nombre": "David Abel Hirtz",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -12,7 +12,7 @@
  {
   "partido": "ADOLFO_GONZALES_CHAVES",
   "nombre": "José Martínez",
-  "agrupacion_actual": "PV",
+  "agrupacion_actual": "VECINALISTA",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -64,7 +64,7 @@
  {
   "partido": "AYACUCHO",
   "nombre": "Pablo Antonio Zubiaurre",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -224,7 +224,7 @@
  {
   "partido": "CARMEN_DE_ARECO",
   "nombre": "Marcelo Skanski",
-  "agrupacion_actual": "PV",
+  "agrupacion_actual": "VECINALISTA",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -254,7 +254,7 @@
  {
   "partido": "CHASCOMUS",
   "nombre": "Juan Alberto Gobbi",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -284,7 +284,7 @@
  {
   "partido": "CORONEL_ROSALES",
   "nombre": "Néstor Starc",
-  "agrupacion_actual": "PV",
+  "agrupacion_actual": "VECINALISTA",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -294,7 +294,7 @@
  {
   "partido": "CORONEL_DORREGO",
   "nombre": "Fabián Andrés Zorzano",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -325,7 +325,7 @@
  {
   "partido": "DAIREAUX",
   "nombre": "Esteban Jorge Hernando",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -429,7 +429,7 @@
  {
   "partido": "GENERAL_ALVEAR",
   "nombre": "Luis Cellillo",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -459,7 +459,7 @@
  {
   "partido": "GENERAL_GUIDO",
   "nombre": "Jorge Aníbal Loubet",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -764,7 +764,7 @@
  {
   "partido": "LUJAN",
   "nombre": "Oscar Ernesto Luciani",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -794,10 +794,10 @@
  {
   "partido": "MALVINAS_ARGENTINAS",
   "nombre": "Jesús Cataldo Cariglino",
-  "agrupacion_actual": "UP",
-  "agrupacion_anterior": [
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": ["UP"
   ],
-  "fecha_pase": [
+  "fecha_pase": ["2013-08"
   ],
   "firmo": "no"
  },
@@ -904,7 +904,7 @@
  {
   "partido": "NUEVE_DE_JULIO",
   "nombre": "Wálter Roberto Batistella",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -944,7 +944,7 @@
  {
   "partido": "PELLEGRINI",
   "nombre": "Miguel Ángel Pacheco",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -954,7 +954,7 @@
  {
   "partido": "PERGAMINO",
   "nombre": "Héctor María Gutiérrez",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -984,7 +984,7 @@
  {
   "partido": "PINAMAR",
   "nombre": "Hernán Muriale",
-  "agrupacion_actual": "MUPP",
+  "agrupacion_actual": "VECINALISTA",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -1004,7 +1004,7 @@
  {
   "partido": "PUAN",
   "nombre": "Facundo David Castelli",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -1064,10 +1064,10 @@
  {
   "partido": "ROJAS",
   "nombre": "Martín Ángel Caso",
-  "agrupacion_actual": "EPR",
-  "agrupacion_anterior": [
+  "agrupacion_actual": "FR",
+  "agrupacion_anterior": [ "VECINALISTA"
   ],
-  "fecha_pase": [
+  "fecha_pase": ["2013-08"
   ],
   "firmo": "no"
  },
@@ -1094,7 +1094,7 @@
  {
   "partido": "SALADILLO",
   "nombre": "Carlos Antonio Gorosito",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -1104,7 +1104,7 @@
  {
   "partido": "SALLIQUELO",
   "nombre": "Osvaldo Cattaneo",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -1146,7 +1146,7 @@
  {
   "partido": "SAN_CAYETANO",
   "nombre": "Miguel Gargaglione",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -1228,7 +1228,7 @@
  {
   "partido": "TANDIL",
   "nombre": "Miguel Ángel Lunghi",
-  "agrupacion_actual": "Udeso",
+  "agrupacion_actual": "UDESO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -1288,7 +1288,7 @@
  {
   "partido": "TRES_ARROYOS",
   "nombre": "Carlos Alberto Sánchez",
-  "agrupacion_actual": "PV",
+  "agrupacion_actual": "VECINALISTA",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -1328,7 +1328,7 @@
  {
   "partido": "VICENTE_LOPEZ",
   "nombre": "Jorge Macri",
-  "agrupacion_actual": "FP",
+  "agrupacion_actual": "PRO",
   "agrupacion_anterior": [
   ],
   "fecha_pase": [
@@ -1358,12 +1358,10 @@
  {
   "partido": "ZARATE",
   "nombre": "Osvaldo Raúl Cáffaro",
-  "agrupacion_actual": "NZ",
+  "agrupacion_actual": "VECINALISTA",
   "agrupacion_anterior": [
-   " "
   ],
   "fecha_pase": [
-   " "
   ],
   "firmo": "no"
  }

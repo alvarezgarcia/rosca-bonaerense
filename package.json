@@ -5,7 +5,8 @@
 	"description": "API para mantenerse al tanto de los gustos partidarios de los barones del conurbano",
 	"main": "index.js",
 	"dependencies": {
-		"express": "*"
+		"express": "*",
+		"strftime": "*"
 	},
 
 	"scripts": {
